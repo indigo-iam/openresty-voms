@@ -5,4 +5,6 @@ module][ngx-voms].
 
 The image runs nginx as the `nginx` user.
 
+- [indigoiam/openresty-voms](https://hub.docker.com/repository/docker/indigoiam/openresty-voms)
+
 [ngx-voms]: https://baltig.infn.it/storm2/ngx_http_voms_module
